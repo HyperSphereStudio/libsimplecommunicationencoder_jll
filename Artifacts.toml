@@ -1,8 +1,8 @@
 [[libsimplecommunicationencoder]]
 arch = "x86_64"
-git-tree-sha1 = "def3d33045e3968be3daa3b7df15ce0174989e07"
+git-tree-sha1 = "8966d8a53f6a4b2e00d42810f40e29e1dbd964fb"
 os = "windows"
 
     [[libsimplecommunicationencoder.download]]
-    sha256 = "83c66c3b063ddd63413d5b4a27fab5fac517a1161ee867bf0f1868f01e663ddc"
+    sha256 = "06f9b3c8f6969e74c60b66d98624e04323586703700427e6dfc2e56c3a220333"
     url = "https://github.com/HyperSphereStudio/libsimplecommunicationencoder_jll/releases/download/libsimplecommunicationencoder-v1.0.0+0/libsimplecommunicationencoder.v1.0.0.x86_64-w64-mingw32.tar.gz"
